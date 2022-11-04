@@ -1,0 +1,2 @@
+2022-09-16 10:07:51.837 [main] WARN  org.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.atguigu.hospital.mapper]' package. Please check your configuration.
+2022-09-16 10:07:53.377 [main] WARN  org.thymeleaf.templatemode.TemplateMode - [THYMELEAF][main] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
